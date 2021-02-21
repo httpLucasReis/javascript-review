@@ -5,9 +5,9 @@
  - [x] Async/await
  - [x] eventEmitter
  - [x] lists and loops
- - [] array.map
- - [] array.filter
- - [] array.reduce
- - [] tests
+ - [ ] array.map
+ - [ ] array.filter
+ - [ ] array.reduce
+ - [ ] tests
 
  
